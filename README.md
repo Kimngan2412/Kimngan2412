@@ -1,5 +1,5 @@
 ### Halo tui là Kim Ngân ✨✨✨
-
+🌱 I’m currently learning HTML , CSS, Javascript
 <!--
 **Kimngan2412/Kimngan2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
