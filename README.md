@@ -1,4 +1,4 @@
-### Kim Ngân ✨✨✨
+### ✨✨✨ Kim Ngân ✨✨✨ 
 
 <!--
 **Kimngan2412/Kimngan2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-✨✨✨ Kim Ngân ✨✨✨
  <img src="bg.jpg"
  alt="Logo" width= 50%>
 </p>
