@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  alt="Logo" width= 50%>
 </p>
 
-#### Connect me :
+#### ❤ Connect me :
 
 <a href="https://www.facebook.com/anhohaxeo/"><img src="fb.png" alt="" width="50px"></a>
 <a href="https://www.instagram.com/muopcocoon/"><img src="ig.png" alt="" width="50px"></a>
