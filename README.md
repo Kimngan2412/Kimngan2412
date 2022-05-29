@@ -1,5 +1,5 @@
 ### Kim Ngân ✨✨✨
-🌱 I’m currently learning HTML , CSS, Javascript 
+
 <!--
 **Kimngan2412/Kimngan2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +17,9 @@ Here are some ideas to get you started:
  <img src="bg.jpg"
  alt="Logo" width= 50%>
 </p>
+
+<h4>Frontend</h4>
+	<img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff"/>
+	<img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3"/>
+	<img src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react"/>
 
