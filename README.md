@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 <table align="center">
 <tr>
-	<img src="https://github-readme-stats.vercel.app/api?username=Kimngan2412&count_private=true&show_icons=true&theme=panda"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=Kimngan2412&count_private=true&show_icons=true&theme=react"/>
      <br/><br/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimngan2412&layout=compact&theme=panda"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimngan2412&layout=compact&theme=react"/>
 	</td>
 </tr>
 </table>
