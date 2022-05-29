@@ -14,9 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
+✨✨✨ Kim Ngân ✨✨✨
  <img src="bg.jpg"
  alt="Logo" width= 50%>
 </p>
+
+ <p>Connect me : 
+    <a href="https://www.facebook.com/anhohaxeo/"><img src="fb.png" alt="" width="50px"></a>
+    <a href="https://www.instagram.com/muopcocoon/"><img src="ig.png" alt="" width="50px"></a>
+ </p>
 
 <h4>Frontend</h4>
 	<img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff"/>
