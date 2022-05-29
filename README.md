@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  alt="Logo" width= 50%>
 </p>
 
-#### Student at Danang University of Science and Technology
+#### 🎪 Student at Danang University of Science and Technology
 #### ❤ Connect to me :
 
 <a href="https://www.facebook.com/anhohaxeo/"><img src="fb.png" alt="" width="50px"></a>
