@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 -->
 <p align="center">
  <img src="bg.jpg"
- alt="Logo" width= 100%>
+ alt="Logo" width= 50%>
 </p>
+
