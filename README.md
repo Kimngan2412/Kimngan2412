@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 #### 🎪 Student at Danang University of Science and Technology
 #### ❤ Connect to me :
 
-<a href="https://www.facebook.com/anhohaxeo/"><img src="fb.png" alt="" width="70px"></a>
+<a href="https://www.facebook.com/anhohaxeo/"><img src="fb.png" alt="" width="55px"></a>
 <a href="https://www.instagram.com/muopcocoon/"><img src="ig.png" alt="" width="50px"></a>
 
 <table align="center">
